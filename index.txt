@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1E4E-32F1
+
+ Directory of C:\Users\1021534\Desktop\New folder (2)
+
+08/18/2018  07:21 PM    <DIR>          .
+08/18/2018  07:21 PM    <DIR>          ..
+08/18/2018  07:22 PM                 0 index.txt
+08/18/2018  07:11 PM               909 PrimeExample.class
+08/18/2018  07:02 PM               526 PrimeExample.java
+               3 File(s)          1,435 bytes
+               2 Dir(s)  352,411,090,944 bytes free
